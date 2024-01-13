@@ -4,7 +4,7 @@
 ## build with-
 ![Alt text](image.png)![Alt text](image-1.png)![Alt text](image-2.png)
 
-## Demo [Click Here](https://vishalgiri8767.github.io/Image-Search-Engine/)
+## Live Demo [Click Here](https://vishalgiri8767.github.io/Image-Search-Engine/)
 
 ## Preview
 ![Alt text](image-3.png)
